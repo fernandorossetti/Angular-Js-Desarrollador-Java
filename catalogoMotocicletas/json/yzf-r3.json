@@ -1,0 +1,25 @@
+
+{
+    "id": "yzf-r3",
+    "modelo": "YZF-R3",
+    "year":2018,
+    "descripcion": "Estilo deportivo para el día a día. La línea R de YAMAHA generó iconos a lo largo del tiempo que llegaron a convertirse en legendarias motocicletas. Hoy siguen marcando tendencia en el segmento Supersport gracias a sus líneas agresivas, a su tecnología de punta y a su deportividad, tanto dentro como fuera de las pistas.",
+    "imagenes": ["img/motos/yamaha1.jpg", "img/motos/yamaha2.jpg", "img/motos/yamaha3.jpg"],
+    "motor": {
+        "tipo":"4 tiempos, bicilíndrica en línea, refigeración líquida, DOHC",
+        "marchas": "6 velocidades de toma constante",
+        "tipoTransmision": "Manual",
+        "arranque":"TCI"
+    },
+    "fabricante":{
+        "nombreFabricante":"yamaha",
+        "pais":"Japón"
+    },
+    "cilindrada": "321 cc",
+    "dimensiones":{
+        "largo":"2.090 mm",
+        "ancho":"720 mm",
+        "alto":"1.135  mm"
+    },
+    "peso": "170 kg"
+}

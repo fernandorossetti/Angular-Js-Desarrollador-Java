@@ -1,0 +1,24 @@
+{
+    "id": "cbr-1000",
+    "modelo": "Honda CBR-1000",
+    "year":2018,
+    "descripcion": "Con los cambios que se introdujeron en 2017 la superbike se convirtió en una montura más (196 kg) y potente (190 CV) que la anterior, con una electrónica que deriva de la RC213V-S. Esta tecnología es uno de los aspectos más destacados. La CBR1000RR cuenta con una IMU de 5 ejes con la que se mide todo lo que ocurre en la moto en todo momento. Esto hace funcionar el Sistema de Par de Honda (HSTC), que es el control de tracción desarrollado por ellos mismo, y el acelerador electrónico (Throttle By Wire).",
+    "imagenes": ["img/motos/honda-cbr-1.jpg", "img/motos/honda-cbr-2.jpg", "img/motos/honda-cbr-3.jpg"],
+    "motor": {
+        "tipo":"4 tiempos, V4 a 90°, DOHC, 16 válvulas, refrigeración líquida",
+        "marchas": "6 Velocidades",
+        "tipoTransmision": "Multidisco en baño de aceite y embrague centrífugo automático",
+        "arranque":"Digital transistorizado con control computerizado y avance electrónico."
+    },
+    "fabricante":{
+        "nombreFabricante":"honda",
+        "pais":"Japón"
+    },
+    "cilindrada": "999 cc",
+    "dimensiones":{
+        "largo":"2.065 mm",
+        "ancho":"720 mm",
+        "alto":"1.125  mm"
+    },
+    "peso": "196 kg"
+}

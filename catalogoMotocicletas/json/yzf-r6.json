@@ -1,0 +1,25 @@
+{
+    "id": "yzf-r6",
+    "modelo": "YZF-R6",
+    "year":2018,
+    "descripcion": "Con un éxito absoluto tanto en ventas como en competencias de todo el mundo, la YZF-R6 es una de las Supersport más populares que Yamaha ha fabricado en la historia. La renovación de este modelo brinda cambios profundos en cuanto a diseño, aerodinámica y equipamiento, incluyendo sistemas de control de tracción (TCS) y potencia (D-Mode), además de ABS de serie, Ligero, ágil y rápido, este modelo icónico es la opción número uno de los amantes de las emociones fuertes ya sea en su día a día o en una práctica dentro del circuito.",
+    "imagenes": ["img/motos/yamaha-r6-1.jpg", "img/motos/yamaha-r6-2.jpg", "img/motos/yamaha-r6-3.jpg"],
+    "motor": {
+        "tipo":"Tetracilíndrico, 16 vàlvulas DOHC, refrigeración líquida, 4 tiempos",
+        "marchas": "6 Velocidades",
+        "tipoTransmision": "Manual",
+        "arranque":"TCI"
+    },
+    "fabricante":{
+        "nombreFabricante":"yamaha",
+        "pais":"Japón"
+    },
+    "cilindrada": "599 cc",
+    "dimensiones":{
+        "largo":"2.040 mm",
+        "ancho":"695 mm",
+        "alto":"1.150 mm"
+    },
+    "peso": "190 kg",
+    "categoria":"carreras"
+}

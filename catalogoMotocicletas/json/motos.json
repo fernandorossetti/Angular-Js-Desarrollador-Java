@@ -1,0 +1,104 @@
+[
+    {
+        "id":"yzf-r6",
+        "modelo":"Yamaha YZF-R6",
+        "year":2018,
+        "imagenUrl":"img/motos/yamaha-r6.jpg",
+        "descripcion":"Con un éxito absoluto tanto en ventas como en competencias de todo el mundo, la YZF-R6 es una de las Supersport más populares que Yamaha ha fabricado en la historia.",
+        "fabricante":"yamaha",
+        "cilindrada": "599 cc",
+        "categoria":"carreras"
+    },
+
+    {
+        "id": "cbr-1000",
+        "modelo": "Honda CBR-1000",
+        "year":2018,
+        "imagenUrl":"img/motos/honda-cbr.jpg",
+        "descripcion":"Su diseño deportivo la hace indudablemente parte de la histórica familia más ganadora en pista, las CBR. Esta moto es más liviana, más poderosa, y tiene más control.",
+        "fabricante":"honda",
+        "cilindrada": "999 cc",
+        "categoria":"carreras"
+    },
+    {
+        "id": "supercub",
+        "modelo": "Super Cub C125",
+        "year":2019,
+        "descripcion": "El Honda Super Cub o Honda Cub es una motocicleta Honda underbone con un motor de cuatro tiempos de un solo cilindro con cilindrada de 49 a 124 cc",
+        "imagenUrl": "img/motos/supercub1.jpg",
+        "fabricante":"honda",
+        "cilindrada": "782 cc",
+        "categoria":"scooter"
+    },
+    {
+        "id": "burgman",
+        "modelo": "Burgman 200",
+        "year":2018,
+        "descripcion": "La ciudad derrocha energía 24 horas al día, siete días a la semana. En cada esquina se esconde una nueva experiencia que disfrutar.",
+        "imagenUrl": "img/motos/burgman1.jpg",
+        "fabricante": "suzuki",
+        "cilindrada": "200 cc",
+        "categoria":"scooter"
+    },
+    {
+        "id": "yzf-r3",
+        "modelo": "Yamaha YZF-R3",
+        "year":2018,
+        "descripcion": "Estilo deportivo para el día a día. La línea R de YAMAHA generó iconos a lo largo del tiempo que llegaron a convertirse en legendarias motocicletas.",
+        "imagenUrl": "img/motos/yamaha.jpg",
+        "fabricante": "yamaha",
+        "cilindrada": "321 cc",
+        "categoria":"carreras"
+    },
+    {
+        "id": "mt-10",
+        "modelo": "MT-10 Tourer Edition",
+        "year":2018,
+        "descripcion": "Hemos cogido la Hyper Naked más potente que hayamos fabricado nunca y le hemos añadido una gama de equipos especialmente desarrollados para que puedas disfrutar de un cariz aún más deportivo y de una mayor autonomía en cualquier recorrido.",
+        "imagenUrl": "img/motos/mt-101.jpg",
+        "fabricante":"yamaha",
+        "cilindrada": "998cc",
+        "categoria":"deportiva"
+    },
+    {
+        "id": "nmax125",
+        "modelo": "NMAX 125",
+        "year":2018,
+        "descripcion": "El nuevo scooter deportivo NMAX 125 va a convertir tus desplazamientos urbanos diarios en una experiencia que dejarás de sufrir y empezarás a disfrutar.",
+        "imagenUrl": "img/motos/nmax1251.jpg",
+        "fabricante":"yamaha",
+        "cilindrada": "125cc",
+        "categoria":"scooter"
+    },
+    {
+        "id": "hayabusa",
+        "modelo": "Hayabusa GSX1300",
+        "year":2018,
+        "descripcion": "La Hayabusa (Suzuki GSX-1300R Hayabusa) es una motocicleta de Suzuki que está considerada como una de las más veloces del mundo y de mayor aceleración estrictamente de serie. A continuación hay unos datos técnicos de la versión 2008 y 2013, y mediciones de las versiones 1999 y 2001, extraídos de pruebas realizadas por prensa especializada.",
+        "imagenUrl": "img/motos/hayabusa.jpg",
+        "fabricante":"suzuki",
+        "cilindrada": "1340 cc",
+        "categoria":"deportiva"
+    },
+    
+    {
+        "id": "r1250gs",
+        "modelo": "R 1250 GS",
+        "year":2018,
+        "descripcion": "Ya sea en recorridos largos o fuera de la carretera, la nueva BMW R 1250 GS, con su nuevo motor boxer, es la mejor enduro de viaje con la combinación óptima de dinamismo y comodidad, y lograr que la perfección en tecnología se transforma en placer para viajar. Encontrarás más información sobre los datos técnicos y el equipamiento de serie aquí.",
+        "imagenUrl": "img/motos/r1250gs1.jpg",
+        "fabricante":"bmw",
+        "cilindrada": "150 cc",
+        "categoria":"deportiva"
+    },
+    {
+        "id": "c650",
+        "modelo": "C 650 Sport",
+        "year":2018,
+        "descripcion": "El maxiscooter BMW C 650 Sport convierte el desplazamiento diario en una experiencia de conducción única. Es el compañero perfecto para aquellos que buscan moverse por la ciudad de forma inteligente. Las prestaciones deportivas y el manejo sin esfuerzo de este scooter de 650 c.c. garantizan una conducción sin igual. El motor de dos cilindros en línea ofrece un par de 63 Nm, 60 CV y una velocidad máxima de 180 km/h. Así llegarás enseguida a tu destino. Ahora tomarás las curvas y sortearás el intenso tráfico de la ciudad aún con más facilidad gracias a la optimización del ágil chasis y la suspensión. ¡Redescubre el mundo en que te mueves cada día! ",
+        "imagenUrl": "img/motos/c6501.jpg",
+        "fabricante":"bmw",
+        "categoria":"scooter"
+    }
+    
+]

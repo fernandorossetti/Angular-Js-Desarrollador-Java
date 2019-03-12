@@ -1,0 +1,26 @@
+
+{
+    "id": "hayabusa",
+    "modelo": "Hayabusa GSX1300",
+    "year":2018,
+    "descripcion": "La Hayabusa (Suzuki GSX-1300R Hayabusa) es una motocicleta de Suzuki que está considerada como una de las más veloces del mundo y de mayor aceleración estrictamente de serie. A continuación hay unos datos técnicos de la versión 2008 y 2013, y mediciones de las versiones 1999 y 2001, extraídos de pruebas realizadas por prensa especializada.",
+    "imagenes": ["img/motos/hayabusa-1.jpg", "img/motos/hayabusa-2.jpg", "img/motos/hayabusa-3.jpg"],
+    "motor": {
+        "tipo":"Monocilíndrico, 4 tiempos, refrigerado por líquido, SOHC, 4 válvulas",
+        "marchas": "6 Velocidades",
+        "tipoTransmision": "Manual",
+        "arranque":"Electrico"
+    },
+    "fabricante":{
+        "nombreFabricante":"suzuki",
+        "pais":"Japón"
+    },
+    "cilindrada": "1340 cc",
+    "dimensiones":{
+        "largo":"2.190 mm",
+        "ancho":"735 mm",
+        "alto":"1.165 mm"
+    },
+    "peso": "266kg",
+    "categoria":"deportiva"
+}
